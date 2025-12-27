@@ -8,6 +8,4 @@ Daily Java practice to build strong backend fundamentals.
 - Collections
 - Exceptions
 - Multithreading
-- Spring Boot (later)
-
-Consistency > motivation.
+- Spring Boot 
